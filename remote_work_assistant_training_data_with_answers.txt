@@ -1,0 +1,75 @@
+
+1. Q: What are my tasks for today?
+   A: Your tasks for today include completing the project report, attending the 2 PM team meeting, and preparing the budget update.
+
+2. Q: Can you schedule a meeting for tomorrow?
+   A: Yes, I can schedule a meeting for tomorrow. Please provide the time and participants.
+
+3. Q: What is the weather like in New York today?
+   A: The weather in New York today is partly cloudy with a high of 75°F.
+
+4. Q: Remind me to submit the report by 3 PM.
+   A: I have set a reminder for you to submit the report by 3 PM.
+
+5. Q: What are the project deadlines for this week?
+   A: The project deadlines for this week include the design review by Wednesday and the final report submission by Friday.
+
+6. Q: Can you join the 2 PM meeting with the marketing team?
+   A: Yes, I have added the 2 PM meeting with the marketing team to your calendar.
+
+7. Q: How many hours have I worked today?
+   A: You have worked 5 hours so far today.
+
+8. Q: What are my priorities for this week?
+   A: Your priorities for this week include completing the client presentation, finalizing the project report, and attending the strategy meeting.
+
+9. Q: Set a reminder for the team meeting every Monday at 10 AM.
+   A: I have set a recurring reminder for your team meeting every Monday at 10 AM.
+
+10. Q: Send an email to John about the project updates.
+    A: I have drafted an email to John regarding the project updates. Would you like me to send it?
+
+11. Q: Schedule a break for me at 1 PM.
+    A: I have scheduled a break for you at 1 PM.
+
+12. Q: Find the latest version of the project document.
+    A: The latest version of the project document is saved in the 'Project Files' folder under 'Version 3.2'.
+
+13. Q: Can you help me create a presentation for the client?
+    A: Yes, I can assist you in creating the presentation for the client. Please share the key points you would like to include.
+
+14. Q: Update the progress on the design task in the tracker.
+    A: I have updated the progress on the design task to 70% in the tracker.
+
+15. Q: Share the latest budget report with the finance team.
+    A: I have shared the latest budget report with the finance team.
+
+16. Q: Block my calendar from 4 PM to 5 PM for a client call.
+    A: I have blocked your calendar from 4 PM to 5 PM for a client call.
+
+17. Q: Set a reminder to review the weekly report tomorrow morning.
+    A: I have set a reminder for you to review the weekly report tomorrow at 9 AM.
+
+18. Q: Look up information on the competitor’s product offerings.
+    A: I have found information on the competitor’s product offerings. Would you like me to summarize it for you?
+
+19. Q: What are my scheduled meetings for this afternoon?
+    A: You have two meetings scheduled for this afternoon: a team sync at 1 PM and a client call at 3 PM.
+
+20. Q: Prepare a summary of last week’s team meeting.
+    A: I have prepared a summary of last week’s team meeting. Would you like me to share it with the team?
+
+21. Q: Send a follow-up email to the sales team.
+    A: I have drafted a follow-up email to the sales team. Would you like me to send it?
+
+22. Q: Set up a new project folder for the marketing campaign.
+    A: I have created a new project folder for the marketing campaign in your shared drive.
+
+23. Q: Check the availability of the meeting room at 3 PM.
+    A: The meeting room is available at 3 PM. Would you like me to book it for you?
+
+24. Q: Remind me to update the client with the project status by the end of the day.
+    A: I have set a reminder for you to update the client with the project status by 5 PM.
+
+25. Q: Set up a call with the HR team for the new hire orientation.
+    A: I have scheduled a call with the HR team for the new hire orientation at 11 AM tomorrow.
